@@ -75,7 +75,7 @@ Always Building & Learning
   <td width="50%" valign="top">
 
 <!-- STATS: Added count_private=true & include_all_commits=true for fuller data -->
-<img src="https://github-readme-stats.vercel.app/api?username=Keshav16G&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BC13FE&text_color=FFFFFF&icon_color=00F7FF&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Keshav16G&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BC13FE&text_color=FFFFFF&icon_color=00F7FF&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 
   </td>
   </tr>
@@ -170,8 +170,7 @@ Deep learning models for object detection and image classification with real-tim
   <img src="https://streak-stats.demolab.com/?user=Keshav16G&theme=tokyonight&hide_border=false&background=0D1117&ring=BC13FE&stroke=BC13FE" width="48%" alt="Streak Stats"/>
 
 <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keshav16G&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=FFFFFF&title_color=00F7FF&card_width=300" width="48%" alt="Top Languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keshav16G&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=FFFFFF&title_color=00F7FF&hide_border=true" width="48%" alt="Top Languages"/>
 </p>
 
 ---
